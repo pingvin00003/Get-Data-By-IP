@@ -1,0 +1,11 @@
+C:\Users\Максим\source\repos\dataByIP\dataByIP\bin\Debug\dataByIP.exe.config
+C:\Users\Максим\source\repos\dataByIP\dataByIP\bin\Debug\dataByIP.exe
+C:\Users\Максим\source\repos\dataByIP\dataByIP\bin\Debug\dataByIP.pdb
+C:\Users\Максим\source\repos\dataByIP\dataByIP\obj\Debug\dataByIP.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\dataByIP\dataByIP\obj\Debug\dataByIP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\source\repos\dataByIP\dataByIP\obj\Debug\dataByIP.Form1.resources
+C:\Users\Максим\source\repos\dataByIP\dataByIP\obj\Debug\dataByIP.Properties.Resources.resources
+C:\Users\Максим\source\repos\dataByIP\dataByIP\obj\Debug\dataByIP.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\dataByIP\dataByIP\obj\Debug\dataByIP.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\dataByIP\dataByIP\obj\Debug\dataByIP.exe
+C:\Users\Максим\source\repos\dataByIP\dataByIP\obj\Debug\dataByIP.pdb
